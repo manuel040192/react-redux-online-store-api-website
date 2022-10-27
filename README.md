@@ -1,4 +1,6 @@
-Información destacada:
+https://635ac2652690296cbb8a1c5c--celadon-salmiakki-0c0e8b.netlify.app/
+
+**Información destacada:**
 
 - El reducer de productos contiene una action que toma el estado existente con ...state y añade un payload que contiene productos con products: payload.
 
@@ -8,7 +10,7 @@ Información destacada:
 
 - El reducer de productos seleccionados contiene una action que retorna un objeto vacío, lo cual hace que se vacíe el estado de productos seleccionados.
 
-Highlighted information:
+**Highlighted information:**
 
 - The products' reducer contains an action that takes the existing state with ...state and adds a payload that contains products with products: payload.
 
